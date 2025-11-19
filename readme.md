@@ -1,6 +1,6 @@
 # Hi, I’m Victoria
 
-I’m a **Computer Science student at McGill University (Graduating 2025)**, I love building (and sometimes, breaking) things — from ML models and data pipelines to hackathon prototypes built at 3 AM.
+I’m a **Computer Science student at McGill University (Graduating 2025)**, I love building things — from ML models and data pipelines to hackathon prototypes built at 3 AM.
 
 ---
 
